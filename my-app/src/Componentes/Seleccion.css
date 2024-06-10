@@ -1,0 +1,26 @@
+/* src/Componentes/Seleccion.css */
+.seleccion-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .seleccion-container .bloque {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    width: 150px;
+  }
+  
+  .seleccion-container .bloque:hover {
+    background-color: #45a049;
+  }
+  
+  .bloque-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
